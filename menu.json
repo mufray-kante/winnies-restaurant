@@ -1,0 +1,27 @@
+[
+    {
+        "price":  1200,
+        "category":  "Grilled",
+        "name":  "Nyama Choma"
+    },
+    {
+        "price":  200,
+        "category":  "Staple",
+        "name":  "Ugali"
+    },
+    {
+        "price":  150,
+        "category":  "Veg",
+        "name":  "Sukuma Wiki"
+    },
+    {
+        "price":  100,
+        "category":  "Bread",
+        "name":  "Chapati"
+    },
+    {
+        "price":  800,
+        "category":  "Main",
+        "name":  "Chicken Stew"
+    }
+]
