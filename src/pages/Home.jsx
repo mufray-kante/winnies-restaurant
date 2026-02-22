@@ -85,10 +85,10 @@ const Home = () => {
       {/* Floating Buttons */}
       <div className="fixed bottom-5 right-5 flex flex-col gap-3">
         <a
-          href="tel:0783199768"
+          href="tel:+254783199768"
           className="bg-blue-600 text-white px-4 py-2 rounded-full"
         >
-          Call: 0783199768
+          Call: +254783199768
         </a>
 
         <a
