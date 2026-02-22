@@ -1,26 +1,26 @@
 [
     {
-        "url":  "https://via.placeholder.com/400x300?text=Nyama+Choma",
+        "url":  "/gallery/nyama_choma.png",
         "title":  "Nyama Choma"
     },
     {
-        "url":  "https://via.placeholder.com/400x300?text=Ugali",
+        "url":  "/gallery/ugali.png",
         "title":  "Ugali"
     },
     {
-        "url":  "https://via.placeholder.com/400x300?text=Chicken+Stew",
+        "url":  "/gallery/chicken_stew.png",
         "title":  "Chicken Stew"
     },
     {
-        "url":  "https://via.placeholder.com/400x300?text=Sukuma+Wiki",
+        "url":  "/gallery/sukuma_wiki.png",
         "title":  "Sukuma Wiki"
     },
     {
-        "url":  "https://via.placeholder.com/400x300?text=Chapati",
+        "url":  "/gallery/chapati.png",
         "title":  "Chapati"
     },
     {
-        "url":  "https://via.placeholder.com/400x300?text=Waffle+Coffee",
+        "url":  "/gallery/waffle_coffee.png",
         "title":  "Waffle Coffee"
     }
 ]
