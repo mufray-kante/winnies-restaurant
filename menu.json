@@ -23,5 +23,10 @@
         "price":  800,
         "category":  "Main",
         "name":  "Chicken Stew"
+    },
+    {
+        "price":  400,
+        "category":  "Drinks/Dessert",
+        "name":  "Waffle Coffee"
     }
 ]
